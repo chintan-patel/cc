@@ -1,0 +1,21 @@
+{
+	"name": "chintan-patel/cc-test",
+	"description": "Sortable Classes",
+	"minimum-stability": "stable",
+	"license": "proprietary",
+	"authors": [
+		{
+			"name": "Chintan Patel",
+			"email": "cp@kashcandi.com"
+		}
+	],
+	"require":{
+		"symfony/http-foundation": "v2.6.6"
+	},
+	"autoload": {
+		"psr-0": {
+			"CC": "lib/"
+		}
+	}
+
+}
